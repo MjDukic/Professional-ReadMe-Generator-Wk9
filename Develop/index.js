@@ -29,6 +29,26 @@ const questions = [
             {name: 'BOOST', value: "[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)"},
             {name: 'None', value: false }
         ]
+    },
+    {
+        type: "input",
+        message: "What contributing factors are allowed for your project?",
+        name: "contributing"
+    },
+    {
+        type: "input",
+        message: "Enter your email address if the user has any questions",
+        name: "questions"
+    },
+    {
+        type: "input",
+        message: "Please add your Github username",
+        name: "username"
+    },
+    {
+        type: "input",
+        message: "Please add a link to you Github profile",
+        name: "profileLink"
     }
 ];
 
