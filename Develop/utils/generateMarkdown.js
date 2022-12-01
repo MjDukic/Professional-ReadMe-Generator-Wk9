@@ -24,14 +24,26 @@ ${data.license ? data.license : ''}
 
 ## Table of Contents 
 
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Contributing](#contributing)
+[Tests](#description)
+[Description](#tests)
+[Questions](#questions)
+
+
 ## Installation
   ${data.installation}
+
+## Usage
+  ${data.usage}
 
 ## Contributing
   ${data.contributing}  
 
 ## Tests
-  ${data.test ? data.test : ''}
+  ${data.test}
 
 ## Questions
 if you have any additional questions, please email me at -- ${data.questions}
@@ -39,10 +51,6 @@ if you have any additional questions, please email me at -- ${data.questions}
 My Github username -- @${data.username}
 
 The link to my Github -- ${data.profileLink}
-
-
-
-
 
 `;
 }

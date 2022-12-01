@@ -1,30 +1,29 @@
-# cool comp
+# dsds
 
-## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  testing
+  fdf
 
 ## Table of Contents 
+  [Description](##-description)
 
 ## Installation
-  have to install inquirer and node
+  sdsd
+
+## Usage
+  sdsds
 
 ## Contributing
-  just read me  
+  dsds  
 
 ## Tests
-  n/a
+  sdsd
 
 ## Questions
-if you have any additional questions, please email me at -- @yahoo
+if you have any additional questions, please email me at -- dsd
 
-My Github username -- @MJDukic
+My Github username -- @ssds
 
-The link to my Github -- link
-
-
-
-
+The link to my Github -- sdsd
 
