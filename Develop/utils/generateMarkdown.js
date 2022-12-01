@@ -24,13 +24,17 @@ ${data.license ? data.license : ''}
 
 ## Table of Contents 
 
-[Description](#description)
-[Installation](#installation)
-[Usage](#usage)
-[Contributing](#contributing)
-[Tests](#description)
-[Description](#tests)
-[Questions](#questions)
+  [Description](#description)
+
+  [Installation](#installation)
+
+  [Usage](#usage)
+
+  [Contributing](#contributing)
+
+  [Tests](#tests)
+  
+  [Questions](#questions)
 
 
 ## Installation

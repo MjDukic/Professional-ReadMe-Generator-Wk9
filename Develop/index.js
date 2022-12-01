@@ -64,17 +64,6 @@ const questions = [
         type: "input",
         message: "Please provide instructions and example for use",
         name: "usage"
-    },
-    {
-        type: "list",
-        Message: "Help to find what you need:",
-        name: "tableOfContents",
-        choices: []
-
-           
-    
-            
-
     }
 ];
 
