@@ -49,6 +49,16 @@ const questions = [
         type: "input",
         message: "Please add a link to you Github profile",
         name: "profileLink"
+    },
+    {
+        type: "input",
+        message: "What are the steps required to install your project? Provide instructions for use.",
+        name: "installation"
+    },
+    {
+        types: "input",
+        message: "Provide examples on how to test your project if applicable",
+        name: "test"
     }
 ];
 

@@ -17,20 +17,21 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
-## License
 ${data.license ? data.license : ''}
 
 ## Description
   ${data.description}
 
-## Table of Contents
+## Table of Contents 
 
 ## Installation
+  ${data.installation}
 
 ## Contributing
   ${data.contributing}  
 
 ## Tests
+  ${data.test ? data.test : ''}
 
 ## Questions
 if you have any additional questions, please email me at -- ${data.questions}

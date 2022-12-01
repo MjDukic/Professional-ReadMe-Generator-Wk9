@@ -1,26 +1,28 @@
-# fjf
+# cool comp
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  fjfj
+  testing
 
-## Table of Contents
+## Table of Contents 
 
 ## Installation
+  have to install inquirer and node
 
 ## Contributing
-  djd  
+  just read me  
 
 ## Tests
+  n/a
 
 ## Questions
-if you have any additional questions, please email me at -- cnc
+if you have any additional questions, please email me at -- @yahoo
 
-My Github username -- @er
+My Github username -- @MJDukic
 
-The link to my Github -- sd
+The link to my Github -- link
 
 
 
