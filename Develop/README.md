@@ -1,41 +1,41 @@
-# cool components
+# fdf
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  it is about creating a professional readme.md
+  
 
 ## Table of Contents 
 
-  [Description](#description)
+- [Description](#description)
 
-  [Installation](#installation)
+- [Installation](#installation)
 
-  [Usage](#usage)
+- [Usage](#usage)
 
-  [Contributing](#contributing)
+- [Contributing](#contributing)
 
-  [Tests](#tests)
-  
-  [Questions](#questions)
+- [Tests](#tests)
+
+- [Questions](#questions)
 
 
 ## Installation
-  you would have to use inquirer.js and node 
+  
 
 ## Usage
-  you can use this for any project that needs a readme
+  
 
 ## Contributing
-  you can create your own readme!  
+    
 
 ## Tests
-  you can check it out on the preview
+  
 
 ## Questions
-if you have any additional questions, please email me at -- mirjanadukicc@gmail.com
+if you have any additional questions, please email me at -- 
 
-My Github username -- @MJDukic
+My Github username -- @
 
-The link to my Github -- https://github.com/MjDukic
+The link to my Github -- 
 

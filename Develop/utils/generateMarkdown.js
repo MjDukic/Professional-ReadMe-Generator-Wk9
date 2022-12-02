@@ -1,5 +1,5 @@
 //generates all of the titles and their data to show up on the file
-
+//terniary statement for data.license, shorter if statement
 function generateMarkdown(data) {
   return `# ${data.title}
 
@@ -10,17 +10,17 @@ ${data.license ? data.license : ''}
 
 ## Table of Contents 
 
-  [Description](#description)
+- [Description](#description)
 
-  [Installation](#installation)
+- [Installation](#installation)
 
-  [Usage](#usage)
+- [Usage](#usage)
 
-  [Contributing](#contributing)
+- [Contributing](#contributing)
 
-  [Tests](#tests)
+- [Tests](#tests)
 
-  [Questions](#questions)
+- [Questions](#questions)
 
 
 ## Installation
