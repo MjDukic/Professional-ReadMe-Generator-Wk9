@@ -46,5 +46,5 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Submission Link
-Link to screenscastify recording of myself writing an example of the professional readme [https://drive.google.com/file/d/1l_bQ1PDAWbVJZLDrHeZNVwfIW_NoI_jz/view]
+Link to screenscastify recording of myself writing an example of the professional readme [https://drive.google.com/file/d/1D5b7ehjvzVIPBQR3yeUjTc2j6YaW_tk5/view]
 
