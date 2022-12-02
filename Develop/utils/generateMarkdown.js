@@ -1,19 +1,5 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-//maybe not needed bc did it in generateMarkdown function
-function renderLicenseBadge(license) {}
+//generates all of the titles and their data to show up on the file
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-//maybe not needed bc did it in generateMarkdown function
-function renderLicenseSection(license) {}
-
-// TODO: Create a function to generate markdown for README
-//ifvelse option just in case there is no license needed for data.license
 function generateMarkdown(data) {
   return `# ${data.title}
 
@@ -33,7 +19,7 @@ ${data.license ? data.license : ''}
   [Contributing](#contributing)
 
   [Tests](#tests)
-  
+
   [Questions](#questions)
 
 
